@@ -38,4 +38,3 @@ jobs:
       env:
         AWS_S3_BUCKET: ay-bucket1
         AWS_REGION: 'us-east-2'   # optional: defaults to us-east-1
-        SOURCE_DIR: 'public'      # optional: defaults to entire repository
