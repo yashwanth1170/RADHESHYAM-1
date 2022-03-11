@@ -40,3 +40,4 @@ jobs:
         aws_secret_access_key: nxZKYa5Z5SYwVGL22IvqMkbsrxjuJvt4vcaWUz1L
         AWS_S3_BUCKET: ay-bucket1
         AWS_REGION: 'us-east-2'   # optional: defaults to us-east-1
+        source_dir: 'http://acs.amazonaws.com/groups/global/AllUsers'
